@@ -49,5 +49,5 @@ To run the compiled `.exe` from the `x64/Debug` folder, you must first copy the 
 ## Acknowledgments
 
 *   Card sprite sheet assets provided by [yaomonl](https://yaomon.itch.io/playing-cards).
-*   Wellbutrin font asset provided by [Apostrophic Labs]([https://yaomon.itch.io/playing-cards](https://yaomon.itch.io/playing-cards)).
+*   Wellbutrin font asset provided by [Apostrophic Labs]([https://yaomon.itch.io/playing-cards](https://yaomon.itch.io/playing-cards).
 *   Play Button sprite sheet assets provided by [SlyFoxStudios](https://slyfox-studios.itch.io/buttons-pack).
